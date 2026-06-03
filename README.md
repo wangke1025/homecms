@@ -1,5 +1,5 @@
 # homecms
-房地产管理网站（ejucms系统二开）
+房地产管理网站
 
 ★安装环境要求★ 
 服务器：Linux / Apache / IIS 
