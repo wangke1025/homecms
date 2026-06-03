@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+a:37:{s:2:"id";i:10;s:3:"nid";s:6:"xiaoqu";s:5:"title";s:12:"小区模型";s:6:"ntitle";s:6:"小区";s:5:"table";s:6:"xiaoqu";s:8:"ctl_name";s:6:"Xiaoqu";s:6:"status";i:1;s:8:"ifsystem";i:1;s:15:"is_repeat_title";i:1;s:6:"is_del";i:0;s:10:"sort_order";i:100;s:8:"add_time";i:1572342368;s:11:"update_time";i:1572342368;s:7:"join_id";i:0;s:12:"is_join_user";i:0;s:9:"join_must";i:0;s:11:"channeltype";i:11;s:15:"current_channel";i:11;s:9:"parent_id";i:0;s:10:"pointto_id";i:0;s:8:"typename";s:6:"小区";s:7:"dirname";s:6:"xiaoqu";s:7:"dirpath";s:7:"/xiaoqu";s:12:"englist_name";s:0:"";s:5:"grade";i:0;s:8:"typelink";s:0:"";s:6:"litpic";s:0:"";s:8:"templist";s:16:"lists_xiaoqu.htm";s:8:"tempview";s:15:"view_xiaoqu.htm";s:9:"seo_title";s:0:"";s:12:"seo_keywords";s:0:"";s:15:"seo_description";s:0:"";s:9:"is_hidden";i:0;s:7:"is_part";i:0;s:8:"admin_id";i:1;s:10:"del_method";i:0;s:6:"typeid";i:10;}

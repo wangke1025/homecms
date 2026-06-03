@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+s:861:"<option value="1" data-grade="0" data-current_channel="9">新房</option><option value="2" data-grade="0" data-current_channel="1">楼市</option><option value="4" data-grade="1" data-current_channel="1">&nbsp;&nbsp;&nbsp;&nbsp;楼盘动态</option><option value="5" data-grade="1" data-current_channel="1">&nbsp;&nbsp;&nbsp;&nbsp;购房指南</option><option value="6" data-grade="1" data-current_channel="1">&nbsp;&nbsp;&nbsp;&nbsp;本地资讯</option><option value="7" data-grade="1" data-current_channel="1">&nbsp;&nbsp;&nbsp;&nbsp;楼盘导购 </option><option value="3" data-grade="0" data-current_channel="10">团购</option><option value="10" data-grade="0" data-current_channel="11">小区</option><option value="11" data-grade="0" data-current_channel="12">二手房</option><option value="12" data-grade="0" data-current_channel="13">租房</option>";
